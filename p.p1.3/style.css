@@ -1,0 +1,23 @@
+h1 {
+font-family: "bungee", sans-serif;
+font-weight: 800;
+font-style: normal;
+text-decoration: underline wavy black;
+text-underline-offset: 1em;
+}
+
+h3 {
+font-family: "bungee", sans-serif;
+font-weight: 800;
+font-style: normal;
+}
+
+p {
+font-family: "katarine-web", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+body {
+  background-color: #cce0f6;
+}
