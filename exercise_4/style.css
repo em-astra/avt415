@@ -1,0 +1,46 @@
+h1 {
+font-family: "bely-display", sans-serif;
+font-weight: 400;
+font-style: normal;
+color: #642c41;
+text-decoration: underline;
+text-decoration-color: #642c41;
+}
+
+footnote {
+font-family: "bely", serif;
+font-weight: 400;
+font-style: italic;
+}
+
+h3 {
+font-family: "bely", serif;
+font-weight: 400;
+font-style: normal;
+
+}
+
+h2 {
+font-family: "miller-banner", serif;
+font-weight: 700;
+font-style: normal;
+color: #7b3750;
+}
+
+p {
+font-family: "bely", serif;
+font-weight: 400;
+font-style: normal;
+font-size: 18px;
+}
+
+body {
+  background-color: #e9e1e6;
+  padding: 40px;
+}
+
+#root {
+  max-width: 1440px;
+  margin: 0 auto;
+} 
+
